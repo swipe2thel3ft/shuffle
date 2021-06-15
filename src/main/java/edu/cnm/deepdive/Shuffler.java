@@ -12,7 +12,7 @@ public class Shuffler {
   /**
    * Initializes this instance, using the provided source of randomness.
    *
-   * @param rng source of randomness.
+   * @param rng source of randomness
    */
   public Shuffler(Random rng) {
     this.rng = rng;
